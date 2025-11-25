@@ -65,4 +65,27 @@ Why?
 Assistant Professors are usually more active in taking new students because they need to meet publication and supervision requirements for their promotion. So they tend to accept more graduate students.
 
 
+# Foods Allowed & Not Allowed on International and Domestic Flights
+
+Many people don’t know which foods can and cannot be taken on flights!
+
+Allowed Foods
+
+1. Dry Foods/Snacks: Cookies, Nuts, Chocolates, Chips etc.
+2. Fruits: Fruits are allowed but pre-cut, washed & dried fruits in sealed containers. (International arrivals like into USA, usually not allowed — especially fresh fruits)
+3. Baby Food: Baby food, formula and breast milk are allowed, even if they exceed the 3.4 oz (100 ml) liquid limit but must be declared at security.
+
+Not Allowed Foods
+
+1. Cooked Foods (but solid cooked food is usually allowed on domestic flights)
+2. Liquid Foods: Liquid or semi-liquid foods (e.g., yogurt, sauces, soup) are not permitted.
+
+Packing Tip
+
+Carry all food items in a single shopping bag for convenience. During security checks, you only need to present this bag for inspection.
+
+Note
+
+Always check TSA (for USA), your airline or destination country’s customs for the latest rules — rules may vary!
+
 
