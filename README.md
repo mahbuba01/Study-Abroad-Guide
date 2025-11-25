@@ -33,4 +33,32 @@
 16. Lastly, Ensure your essay is free of grammar mistakes and that each idea is clearly communicated.
 
 
+# How to Find the Right University for MS & PhD Applicants
+
+To search for suitable universities, start by visiting usnews.com. In the search bar, type your preferred field of study. You will get a ranked list of all universities in the USA that offer programs related to that subject.
+For example, you may get a list of 100 universities. But remember:
+Not all of them offer Master’s or PhD programs in that subject — some may only offer undergraduate programs.
+USNews shows everything under the subject name, so you must filter manually.
+
+Your next task is to visit the official website of each university. Then:
+1. Go to the department page.
+2. Check the faculty list.
+3. Read each professor’s research interests.
+4. If the website doesn’t provide enough details, search the professor on Google Scholar or ResearchGate.
+
+Once you identify professors whose research matches your interest, start contacting them.
+
+For general program-related questions, email the Department Chair or the Graduate Program Coordinator.
+Their job is to respond to prospective students — so don’t hesitate. If needed, send as many emails as required. They will answer all your queries.
+
+Whom to Email First?
+Start emailing in this order:
+1. Assistant Professors
+2. Associate Professors
+3. Professors
+
+Why?
+Assistant Professors are usually more active in taking new students because they need to meet publication and supervision requirements for their promotion. So they tend to accept more graduate students.
+
+
 
