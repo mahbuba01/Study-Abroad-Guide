@@ -33,6 +33,57 @@
 16. Lastly, Ensure your essay is free of grammar mistakes and that each idea is clearly communicated.
 
 
+# Things to know before coming to study in USA
+
+1. Habits & Cleanliness
+
+• Make sure there is no sweat or cooking smell on your body or clothes; wash clothes regularly and stay clean
+
+• Do not dry clothes outside (apartment rules)
+
+• Check for bedbugs before renting an apartment
+
+• Be careful when using vending machines (prefer using a card)
+
+• Separate trash properly (follow recycling rules)
+
+2. Behavior
+
+• Burping, sneezing or coughing loudly is considered impolite; So cover your mouth
+
+• Do not make noise while eating; eat with your mouth closed
+
+• Do not rinse/gargle in the kitchen sink (it may make others uncomfortable)
+
+• Usually use spoon/fork instead of eating with hands
+
+• Close car doors gently
+
+• Do not touch children without permission
+
+• When invited to someone’s home, clean your own plate (not always required everywhere, follow the host’s instructions)
+
+• Use a new plate each time at buffets
+
+• Avoid staring at people or asking personal questions (salary, age, religion)
+
+• Public disturbance can result in fines
+
+3. Academic Rules
+
+• Do not call professors “Sir”; use “Professor + Last Name” or sometimes just first name depending on culture
+
+• Take an appointment before meeting a professor
+
+• Reply to emails quickly
+
+• Plagiarism is strictly prohibited
+
+• Do not use university internet for torrents/downloads (DMCA law)
+
+• Do not store personal files on university servers
+
+
 # How to Find the Right University for MS & PhD Applicants
 
 To search for suitable universities, start by visiting usnews.com. In the search bar, type your preferred field of study. You will get a ranked list of all universities in the USA that offer programs related to that subject.
@@ -63,6 +114,49 @@ Start emailing in this order:
 Why?
 
 Assistant Professors are usually more active in taking new students because they need to meet publication and supervision requirements for their promotion. So they tend to accept more graduate students.
+
+# Things to do before completing PhD
+
+1. Internship
+
+• Because companies invest in you. If you have internship experience, they understand how you work and whether you can cope in a team.
+
+• LOR (Letter of Recommendation) from internship managers is very effective.
+
+• Even if you are not highly skilled in coding, with 2–3 months of serious practice, it is still possible to get an internship.
+
+• In some universities, internships are required in the final semester, but it is better to do an internship earlier instead of waiting for the last semester.
+
+2. Job Search
+
+It is recommended to start about one year before completing your PhD.
+
+2.1 Industry
+
+• If you go to industry, aim for large companies that have experience with H1B and Green Card processes.
+
+• H1B and Green Card:
+
+H1B is largely lottery-based.
+Green Card usually comes through EB-1 (for strong researchers) or EB-2/NIW (common for PhDs).
+
+• Use OPT (Optional Practical Training) as a bridge for PhD graduates before H1B. STEM PhDs can get up to 3 years of OPT.
+
+2.2 Academia
+
+• If you are going into academia, start preparing early for faculty positions.
+
+Steps:
+
+• Detailed CV (6–8 pages)
+
+• Teaching Philosophy
+
+• Research Interests
+
+• SRTE (Student evaluations)
+
+• LOR (4–5 strong letters from PhD advisors, collaborators, or internship supervisors)
 
 
 # Foods Allowed & Not Allowed on International and Domestic Flights
