@@ -1,4 +1,4 @@
-# How to write an Essay for applying to Study Abroad? What to include & What should not be included?
+## How to write an Essay for applying to Study Abroad? What to include & What should not be included?
 
 1. Don’t use overused phrases.
 
@@ -33,9 +33,9 @@
 16. Lastly, Ensure your essay is free of grammar mistakes and that each idea is clearly communicated.
 
 
-# Things to know before coming to study in USA
+## Things to know before coming to study in USA
 
-1. Habits & Cleanliness
+#### 1. Habits & Cleanliness
 
 • Make sure there is no sweat or cooking smell on your body or clothes; wash clothes regularly and stay clean
 
@@ -47,7 +47,7 @@
 
 • Separate trash properly (follow recycling rules)
 
-2. Behavior
+#### 2. Behavior
 
 • Burping, sneezing or coughing loudly is considered impolite; So cover your mouth
 
@@ -69,7 +69,7 @@
 
 • Public disturbance can result in fines
 
-3. Academic Rules
+#### 3. Academic Rules
 
 • Do not call professors “Sir”; use “Professor + Last Name” or sometimes just first name depending on culture
 
@@ -84,7 +84,7 @@
 • Do not store personal files on university servers
 
 
-# How to Find the Right University for MS & PhD Applicants
+## How to Find the Right University for MS & PhD Applicants
 
 To search for suitable universities, start by visiting usnews.com. In the search bar, type your preferred field of study. You will get a ranked list of all universities in the USA that offer programs related to that subject.
 
@@ -115,9 +115,9 @@ Why?
 
 Assistant Professors are usually more active in taking new students because they need to meet publication and supervision requirements for their promotion. So they tend to accept more graduate students.
 
-# Things to do before completing PhD
+## Things to do before completing PhD
 
-1. Internship
+#### 1. Internship
 
 • Because companies invest in you. If you have internship experience, they understand how you work and whether you can cope in a team.
 
@@ -127,7 +127,7 @@ Assistant Professors are usually more active in taking new students because they
 
 • In some universities, internships are required in the final semester, but it is better to do an internship earlier instead of waiting for the last semester.
 
-2. Job Search
+#### 2. Job Search
 
 It is recommended to start about one year before completing your PhD.
 
@@ -159,7 +159,7 @@ Steps:
 • LOR (4–5 strong letters from PhD advisors, collaborators, or internship supervisors)
 
 
-# Foods Allowed & Not Allowed on International and Domestic Flights
+## Foods Allowed & Not Allowed on International and Domestic Flights
 
 Many people don’t know which foods can and cannot be taken on flights!
 
